@@ -31,7 +31,10 @@ nav{
 }
 
 ul{
-    display:flex;
-    
-    
+    display:flex;    
+}
+
+.fylo-image{
+    height:20%;
+    width: auto;
 }
