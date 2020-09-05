@@ -22,7 +22,8 @@ p{
 
 header{
     font-size: 0.7em;  
-    height:60px;  
+    height:60px; 
+    margin-left:1em; 
 }
 
 nav{
@@ -36,8 +37,8 @@ ul{
 
 li{
     list-style: none;
-    margin-right:2rem;
-
+    margin-right:2em;
+    padding-top:0.5em;
 }
 
 .fylo-image{
