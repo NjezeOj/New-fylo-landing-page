@@ -41,7 +41,7 @@ li{
 }
 
 .fylo-image{
-    height: 5rem;
-    width: 2rem;
+    width: 100%;
+    display: block;
     
 }
