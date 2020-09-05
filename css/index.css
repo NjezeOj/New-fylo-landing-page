@@ -23,11 +23,11 @@ ul{
     list-style: none;
     display: flex;
     justify-content: space-between;
-    padding-top:1rem;
+    padding-top:1em;
 }
 
 li{
-    padding-right: 1rem;
+    padding-right: 1em;
 }
 
 img {
@@ -43,8 +43,8 @@ nav{
 }
 
 .fylo-image{
-    height: 2rem;
-    padding-top: 1rem;
-    padding-left: 1rem;
+    height: 2em;
+    padding-top: 1em;
+    padding-left: 1em;
 }
 
