@@ -25,11 +25,7 @@ li{
     padding-right: 1em;
 }
 
-img {
-  display: block;
-  width: 100%; /*a width of 100% shrinks the image down*/
-  height: auto;
-}
+
 
 
 nav li{
