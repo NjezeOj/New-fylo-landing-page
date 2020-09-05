@@ -19,18 +19,28 @@ p{
   padding: 1em 0;
 }
 
+
 header{
-    height: 80px;
-}
-.fylo-image{
-    float: left;
+    font-size: 0.7em;  
+    height:60px;  
 }
 
+nav{
+    display: flex;
+    justify-content: space-between;
+}
 ul{
-    float: right;
-    
+    display: flex;
+    margin-right: 3rem;
 }
 
 li{
-    display: inline
+    list-style: none;
+    padding-left: 2rem
+
+}
+
+.fylo-image{
+    width: auto;
+    
 }
