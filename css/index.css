@@ -30,6 +30,13 @@ li{
     padding-right: 1rem;
 }
 
+img {
+  display: block;
+  width: 100%; /*a width of 100% shrinks the image down*/
+  height: auto;
+}
+
+
 nav{
     display: flex;
     justify-content: space-between;
