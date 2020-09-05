@@ -19,24 +19,19 @@ p{
   padding: 1em 0;
 }
 
-
-
 li{
-    padding-right: 1em;
+    list-style: none;
+    padding-left:2rem;
+    
 }
 
-
-
-
-nav li{
-    float: right;
-    display: inline;
+nav{
+    display:flex;
+    justify-content: space-between;
 }
 
-.fylo-image{
-    height: 10px;
-    width: 30%;
-    padding-top: 1em;
-    padding-left: 1em;
+ul{
+    display:flex;
+    
+    
 }
-
