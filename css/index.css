@@ -19,12 +19,7 @@ p{
   padding: 1em 0;
 }
 
-ul{
-    list-style: none;
-    display: flex;
-    justify-content: space-between;
-    padding-top:1em;
-}
+
 
 li{
     padding-right: 1em;
@@ -37,13 +32,14 @@ img {
 }
 
 
-nav{
-    display: flex;
-    justify-content: space-between;
+nav li{
+    float: right;
+    display: inline;
 }
 
 .fylo-image{
-    height: 2em;
+    height: 10px;
+    width: 30%;
     padding-top: 1em;
     padding-left: 1em;
 }
