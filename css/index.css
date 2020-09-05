@@ -27,7 +27,7 @@ header{
 
 nav{
     display: flex;
-    justify-content: space-between;
+    
 }
 ul{
     display: flex;
@@ -41,7 +41,7 @@ li{
 }
 
 .fylo-image{
-    width: 100%;
-    display: block;
+    height: 25px;
+    width: 100px;
     
 }
