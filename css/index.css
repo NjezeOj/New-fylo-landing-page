@@ -19,23 +19,18 @@ p{
   padding: 1em 0;
 }
 
-li{
-    list-style: none;
-    margin-left:1rem;
-    
+header{
+    height: 80px;
 }
-
-nav{
-    display:flex;
-    justify-content: space-between;
+.fylo-image{
+    float: left;
 }
 
 ul{
-    display:flex;   
-    margin-right: 3rem; 
+    float: right;
+    
 }
 
-.fylo-image{
-    height:20%;
-    width: auto;
+li{
+    display: inline
 }
