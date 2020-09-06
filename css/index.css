@@ -31,8 +31,7 @@ nav{
     justify-content: space-between;
 }
 ul{
-    display: flex;
-    
+    display: flex;    
 }
 
 li{
@@ -45,4 +44,11 @@ li{
     height: 30px;
     width: 20%;
     padding-top:12px;
+}
+
+/*****SectionA*******/
+img{
+  display: block;
+  width: 100%;
+
 }
