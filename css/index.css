@@ -45,10 +45,47 @@ li{
     width: 20%;
     padding-top:12px;
 }
+.content-wrap{
+  margin: 0em 1em 0em 1em;
+}
 
-/*****SectionA*******/
 img{
   display: block;
   width: 100%;
-  color: blue;
+  
 }
+/*****SectionA*******/
+#section-a{
+  margin-top: 100px;
+  
+}
+
+.content-text {
+  
+  margin-top:-1.3em;
+}
+
+.content-form form{
+  display: flex;
+  flex-direction: column;
+}
+
+.searchbar1{
+  
+    width: 100%;
+    padding: 0.6em 0em 0.6em 1em;
+}
+
+.submit1{
+    margin-top: 1em;
+    
+    padding: 0.6em 0em 0.6em 0em;
+    width: 100%;
+    background-color: hsl(224, 93%, 58%);
+    border-radius: 0.2em;
+    color: white;
+    border-color: hsl(224, 93%, 58%);;
+}
+
+
+
