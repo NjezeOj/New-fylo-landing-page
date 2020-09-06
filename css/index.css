@@ -6,6 +6,7 @@ body {
   font-size: 1.1em;
   line-height: 1.5;
   text-align: center;
+  
 }
 
 
@@ -158,7 +159,7 @@ form{
 #section-c{
   background-color: hsl(238, 22%, 44%);  
   color: #ffff;
-  height: 25em;
+  height: 440px;
   padding-left:1em;
   padding-right: 1em;
   text-align: center;
@@ -204,6 +205,15 @@ form{
   
 }
 
+#section-d .content-wrap{
+  padding-top: 3em;
+}
+
+.boxd{
+  line-height: 0.5em;
+  padding-top: 2em;
+}
+
 #boxd1child{
 
 }
@@ -230,6 +240,12 @@ form{
 
 .boxd1 p{
   padding-top: -8em;
+}
+
+
+.boxd{
+  text-align: left;
+  padding-left: 1em;
 }
 
 /**********footer********/
