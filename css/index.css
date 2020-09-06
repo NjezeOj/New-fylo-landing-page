@@ -21,30 +21,32 @@ p{
 
 
 header{
-    font-size: 0.7em;  
-    height:60px; 
-    margin-left:1em; 
+  font-size: 0.7em;  
+  height:60px; 
+  margin-left:1em; 
 }
 
 nav{
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
+
 ul{
-    display: flex;    
+  display: flex;    
 }
 
 li{
-    list-style: none;
-    margin-right:2em;
-    padding-top:0.5em;
+  list-style: none;
+  margin-right:2em;
+  padding-top:0.5em;
 }
 
 .fylo-image{
-    height: 30px;
-    width: 20%;
-    padding-top:12px;
+  height: 30px;
+  width: 20%;
+  padding-top:12px;
 }
+
 .content-wrap{
   margin: 0em 1em 0em 1em;
 }
@@ -156,9 +158,10 @@ form{
 #section-c{
   background-color: hsl(238, 22%, 44%);  
   color: #ffff;
-  height: 440px;
+  height: 31em;
   padding-left:1em;
   padding-right: 1em;
+  text-align: center;
   
 }
 
@@ -175,6 +178,7 @@ form{
   display: flex;
   flex-direction: column;
   align-items: center;
+
 }
 
 .searchbar2{
@@ -191,3 +195,60 @@ form{
   color: white;
   border-color: hsl(224, 93%, 58%);;
 }
+
+
+/**********Section D*******/
+#section-d{
+  background-color: hsl(243, 87%, 12%);
+  color: white;
+  
+}
+
+#boxd1child{
+
+}
+
+#boxd1child p{
+  margin-top:-2.5em;
+  
+}
+
+#white-fylo{
+  width: 50%;
+}
+
+#phone{
+  width: 7%;
+  padding-top: 2em;
+}
+
+#mail{
+  width: 7%;
+  
+}
+
+
+.boxd1 p{
+  padding-top: -8em;
+}
+
+/**********footer********/
+footer{
+  background-color: hsl(243, 87%, 12%);
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
