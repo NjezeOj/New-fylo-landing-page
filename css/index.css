@@ -126,12 +126,10 @@ form{
 
 
 #content-box{
-  width: 80%;
-  /******************250px height***************/
-  height: 17em;
+  width: 80%; 
   background-color: green;
   display: block;
-  padding: 2em 1.5em 1.5em 1.5em;
+  padding: 2em 1.5em 2em 1.5em;
   margin-top: 2rem;
   border-radius: 5px;
 }
