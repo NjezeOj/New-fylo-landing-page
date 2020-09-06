@@ -92,8 +92,8 @@ form{
 /*section B*/
 
 #section-b{
-  margin-top: 230px;
-  margin-bottom: 100px;
+  margin-top: 230px;  
+  padding-bottom: 120px;
 }
 
 
@@ -127,6 +127,8 @@ form{
 
 #content-box{
   width: 80%;
+  /******************250px height***************/
+  height: 17em;
   background-color: green;
   display: block;
   padding: 2em 1.5em 1.5em 1.5em;
@@ -159,7 +161,7 @@ form{
 #section-c{
   background-color: hsl(238, 22%, 44%);  
   color: #ffff;
-  height: 440px;
+  padding-bottom: 85px;
   padding-left:1em;
   padding-right: 1em;
   text-align: center;
