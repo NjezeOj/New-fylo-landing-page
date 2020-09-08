@@ -120,7 +120,7 @@ form{
   display: flex;
   flex-direction: column;
   align-items: center;
-  
+  margin: 0em 1em 0em 1em;
 }
 
 #section-b .content-wrap{
