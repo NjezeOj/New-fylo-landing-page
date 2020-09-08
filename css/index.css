@@ -62,11 +62,11 @@ img{
 /*****SectionA*******/
 #section-a{
   margin-top: 100px;
-  padding-top: 500px;
+  padding-top: 300px;
   background-image: url("../images/illustration-1.svg");
   background-repeat: no-repeat;
   background-size: 87% 50%; 
-  background-position: 50% 20%;
+  background-position: 50% 0%;
   text-align: left;
 }
 
